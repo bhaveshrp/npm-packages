@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap-env",
+  "version": "1.0.0",
+  "description": "Node CLI application for setting up a startup environment for running javascript code with babel for converting code from es6 to es5",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bhavesh R.P.",
+  "license": "ISC",
+  "bin": {
+    "bootstrap-env": "./bin/index.js"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "child_process": "^1.0.2",
+    "edit-json-file": "^1.4.1",
+    "fs": "0.0.1-security",
+    "npm-programmatic": "0.0.12"
+  }
+}
