@@ -1,6 +1,6 @@
 # npm-packages
 
-bootstrap-env is a package used for setting up startup environment for running JavaScript Code. You can download the package and follow below steps to setup a project for running JavaScript code.
+bootstrap-env is a package used for setting up startup environment for running JavaScript Code outside browser. You can download the package and follow below steps to setup a project for running JavaScript code.
 
 1) Create any folder at suitable location
 
