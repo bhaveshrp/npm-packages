@@ -7,3 +7,7 @@ bootstrap-env is a package used for setting up startup environment for running J
 2) npm install --location-of-downloaded-package--
   
 3) you are ready to run JavaScript 
+
+4) Write the code in ./bin/index.js
+
+5) run using npm run build
